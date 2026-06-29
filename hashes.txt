@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Wo die Liebe wohnt, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Wo die Liebe wohnt, Vol. 2** (wo-die-liebe-wohnt-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T02:44:12.344008 | `v1` | `5a5c5d1d0bd1f8dd2c210e7c933078232a23c0b0b3bbcd7b2c8da866828876a6` | `7d9de1220c98bf02b072646c0b4c28719f4b9a4d941cddb955f520086f8070c3` | `2026-06-30_wo-die-liebe-wohnt-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -1,4 +1,4 @@
-# Wo die Liebe wohnt
+# Wo die Liebe wohnt, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Wo die Liebe wohnt |
+| **Title** | Wo die Liebe wohnt, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wo-die-liebe-wohnt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Wo die Liebe wohnt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-die-liebe-wohnt/) |
+| **Get License** | [Music Rights & Licensing for Wo die Liebe wohnt, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wo-die-liebe-wohnt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tiefschwarzer Benz, Baby, slide in my Zone
+> Dein Body ist ein Kunstwerk, du gehörst auf den Thron
+> Wir lassen alles hinter uns, die City schläft ein
+> Kein Limit für uns beide, lass mich dein Lover sein
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 29, 2026 |
+| **SHA-256 Hash** | `5a5c5d1d0bd1f8dd2c210e7c933078232a23c0b0b3bbcd7b2c8da866828876a6` |
+| **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
